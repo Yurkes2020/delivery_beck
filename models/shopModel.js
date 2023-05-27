@@ -12,7 +12,7 @@ const contactsShema = Schema({
     type: String,
   },
   food: {
-    type: [{ id: Number, name: String, picture: String }],
+    type: [{ name: String, price: Number, picture: String }],
   },
 });
 

@@ -1,160 +1,154 @@
 [
   {
-    "_id": "6470db5dc0063b97155baead",
     "company": "EXOSPACE",
     "address": "909 Lee Avenue, Durham, Palau, 8804",
     "food": [
       {
-        "id": 0,
         "name": "enim",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 1,
         "name": "veniam",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 2,
         "name": "sunt",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 3,
         "name": "tempor",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 4,
         "name": "ex",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       }
     ]
   },
   {
-    "_id": "6470db5de973ea64609388e9",
     "company": "SYNTAC",
     "address": "270 Clymer Street, Dale, Nebraska, 4005",
     "food": [
       {
-        "id": 0,
         "name": "proident",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 1,
         "name": "mollit",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 2,
         "name": "ea",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 3,
         "name": "minim",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 4,
         "name": "qui",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       }
     ]
   },
   {
-    "_id": "6470db5da0802777ad55a740",
     "company": "COMVENE",
     "address": "875 Bay Street, Hollins, Texas, 7126",
     "food": [
       {
-        "id": 0,
         "name": "velit",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 1,
         "name": "ex",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 2,
         "name": "veniam",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 3,
         "name": "ad",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 4,
         "name": "mollit",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       }
     ]
   },
   {
-    "_id": "6470db5d6dec503355e8297e",
     "company": "HONOTRON",
     "address": "356 Grand Avenue, Denio, Montana, 3687",
     "food": [
       {
-        "id": 0,
         "name": "eiusmod",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 1,
         "name": "adipisicing",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 2,
         "name": "magna",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 3,
         "name": "ad",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 4,
         "name": "labore",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       }
     ]
   },
   {
-    "_id": "6470db5d9e10fa11d998f315",
     "company": "WAAB",
     "address": "962 Turnbull Avenue, Macdona, Minnesota, 6526",
     "food": [
       {
-        "id": 0,
         "name": "exercitation",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 1,
         "name": "commodo",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 2,
         "name": "fugiat",
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 3,
         "name": "deserunt",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       },
       {
-        "id": 4,
         "name": "et",
+        "price": 10,
         "picture": "http://placehold.it/32x32"
       }
     ]
