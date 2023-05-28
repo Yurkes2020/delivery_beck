@@ -10,13 +10,11 @@ const orderShema = Schema({
   data: {
     company: String,
     address: String,
-    address: {
+    orders: {
       type: [{ name: String, price: Number, picture: String, count: String }],
     },
   },
-  total: {
-    type: Number,
-  },
+  total: Number,
 });
 
 const Orders = model('order', orderShema);

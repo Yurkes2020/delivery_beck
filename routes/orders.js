@@ -3,6 +3,6 @@ const router = express.Router();
 const ctrl = require('../controllers/oRderControllers');
 const ctrlWrapper = require('../middlewares/ctrlWrapper');
 
-router.post('/cart', ctrlWrapper(ctrl.newOrder));
+router.post('/', ctrlWrapper(ctrl.newOrder));
 
 module.exports = router;
