@@ -18,6 +18,7 @@ mongoose
   });
 
 const shopRouter = require('./routes/shops');
+const orderRouter = require('./routes/orders');
 
 const app = express();
 
@@ -28,6 +29,7 @@ app.use(cors());
 app.use(express.json());
 
 app.use('/', shopRouter);
+app.use('/cart', orderRouter);
 
 app.use((req, res) => {
   res.status(404).json({ message: 'Not found' });
