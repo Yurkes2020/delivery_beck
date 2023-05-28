@@ -27,7 +27,7 @@ app.use(logger(formatsLogger));
 app.use(cors());
 app.use(express.json());
 
-app.use('/', shopRouter);
+app.use('/shop', shopRouter);
 app.use('/cart', orderRouter);
 
 app.use((req, res) => {
